@@ -8,5 +8,6 @@ public class helloCSCI206 {
     public static void main(String[] args) {
 
         System.out.println("Hello CSCI 206 World");
+        System.out.println("Hello CSCI 206 World again");
     }
 }
